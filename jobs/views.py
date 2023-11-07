@@ -14,18 +14,20 @@ def joblist(request):
     }
 
     for job in job_list:
-        job.city_name = Cities[job.job_city]
-        job.job_type = JobType[job.job_type]
+        job.city_name = Cities[job.job_city][1]
+        job.job_type = JobType[job.job_type][1]
 
     return HttpResponse(template.render(context))
 
-def jobdetail(request, job_id):
-    job = Job.objects.get(id=job_id)
-    template = loader.get_template('jobs/jobdetail.html')
-    context = {
-        'job': job,
-    }
-    return HttpResponse(template.render(context, request))
+from django.http import Http404
 
+def jobdetail(request,job_id):
+    try:
+        job = Job.objects.get(pk=job_id)
+        job.city_name = Cities[job.job_city][1]
+    except Job.DoesNotExist:
+        raise Http404("Job does not exist")
+
+    return render(request, 'job.html', {'job': job} )
 
 

@@ -21,4 +21,5 @@ from jobs.views import *
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('joblist/', joblist,name="joblist"),
+    path('job/<int:job_id>/', jobdetail,name="jobdetail"),
 ]
