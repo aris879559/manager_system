@@ -6,10 +6,41 @@ from interview.models import Candidate
 from django.urls import reverse
 from django.utils.html import format_html
 
+from django.http import HttpResponse
+import csv
+from datetime import datetime
 
+exportable_fields = ['username', 'city', 'phone', 'bachelor_school', 'master_school', 'degree',
+                     'first_result', 'first_interviewer', 'second_result', 'second_interviewer',
+                     'hr_result', 'hr_score', 'hr_remark', 'hr_interviewer',]
+
+def export_as_csv(modeladmin, request, queryset):
+    response = HttpResponse(content_type='text/csv')
+    field_list = exportable_fields
+    response['Content-Disposition'] = 'attachment; filename=candidates-list-%s.csv' % (
+        datetime.now().strftime('%Y-%m-%d-%H-%M-%S'),
+    )
+
+    ## 写入表头
+    writer = csv.writer(response)
+    writer.writerow(
+        [ queryset.model._meta.get_field(f).verbose_name.title()  for f in field_list ]
+    )
+    for obj in queryset:
+        ## 单行的记录（各个字段的值），写入到csv文件
+        csv_line_values = []
+        for field in field_list:
+            field_object = queryset.model._meta.get_field(field)
+            field_value = field_object.value_from_object(obj)
+            csv_line_values.append(field_value)
+        writer.writerow(csv_line_values)
+    return response
+export_as_csv.short_description = u"导出CSV文件"
+
+#候选人管理类
 class CandidateAdmin(admin.ModelAdmin):
     exclude = ('creator', 'created_date', 'modified_date')
-
+    actions = [export_as_csv,]
     #添加批量添加用户信息的按钮
     def custom_button(self, request):
         url = reverse('upload_csv')
