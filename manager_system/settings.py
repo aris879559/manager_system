@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # 'django_python3_ldap',
     'jobs',
+    'interview',
 ]
 
 MIDDLEWARE = [
@@ -51,6 +53,15 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'manager_system.urls'
+
+LDAP_AUTH_OBJECT_CLASS = "inetOrgPerson"
+LDAP_AUTH_USER_FIELDS = {
+    "username": "uid",
+    "first_name": "givenName",
+    "last_name": "sn",
+    "email": "mail",
+}
+
 
 TEMPLATES = [
     {

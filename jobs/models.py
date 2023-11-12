@@ -25,3 +25,7 @@ class Job(models.Model):
     creater = models.ForeignKey(User,verbose_name='创建者',on_delete=models.SET_NULL,null=True)
     created_date = models.DateTimeField(verbose_name='创建日期',default=datetime.now)
     modified_date = models.DateTimeField(verbose_name='修改日期',default=datetime.now)
+
+    class Meta:
+        verbose_name = u'岗位信息'
+        verbose_name_plural = u'岗位信息'
