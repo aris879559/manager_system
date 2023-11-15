@@ -1,0 +1,31 @@
+[2023-11-15 14:57:41,321] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 14:57:52,617] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 9416
+[2023-11-15 14:57:52,693] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[2023-11-15 14:57:52,697] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[2023-11-15 14:57:52,700] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[2023-11-15 14:57:52,703] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[2023-11-15 14:57:52,704] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[2023-11-15 14:57:52,705] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[2023-11-15 14:57:52,707] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[2023-11-15 14:57:52,723] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-11-15 14:57:52,725] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-11-15 14:57:52,726] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[2023-11-15 14:57:52,774] [log.py:241] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2023-11-15 14:57:52,775] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 62589)
+[2023-11-15 14:57:56,550] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18951
+[2023-11-15 14:57:56,601] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[2023-11-15 14:57:56,602] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[2023-11-15 14:57:56,605] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[2023-11-15 14:57:56,606] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-11-15 14:57:56,614] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[2023-11-15 14:57:56,619] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[2023-11-15 14:57:56,621] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[2023-11-15 14:57:56,621] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[2023-11-15 14:57:56,624] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[2023-11-15 14:57:56,628] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[2023-11-15 14:57:56,628] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-15 14:57:56,629] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+[2023-11-15 14:57:56,667] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2023-11-15 14:57:56,668] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[2023-11-15 14:58:57,958] [admin.py:41] [admin:export_as_csv] [INFO]- admin exported 2 candidate records
+[2023-11-15 14:58:57,960] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/interview/candidate/ HTTP/1.1" 200 289

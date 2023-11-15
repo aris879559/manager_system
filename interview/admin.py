@@ -10,6 +10,9 @@ from django.http import HttpResponse
 import csv
 from datetime import datetime
 
+import logging
+logger = logging.getLogger('log')
+
 exportable_fields = ['username', 'city', 'phone', 'bachelor_school', 'master_school', 'degree',
                      'first_result', 'first_interviewer', 'second_result', 'second_interviewer',
                      'hr_result', 'hr_score', 'hr_remark', 'hr_interviewer',]
@@ -34,6 +37,9 @@ def export_as_csv(modeladmin, request, queryset):
             field_value = field_object.value_from_object(obj)
             csv_line_values.append(field_value)
         writer.writerow(csv_line_values)
+
+    logger.info("%s exported %s candidate records" % (request.user, len(queryset)))
+
     return response
 export_as_csv.short_description = u"导出CSV文件"
 
@@ -41,6 +47,7 @@ export_as_csv.short_description = u"导出CSV文件"
 class CandidateAdmin(admin.ModelAdmin):
     exclude = ('creator', 'created_date', 'modified_date')
     actions = [export_as_csv,]
+
     #添加批量添加用户信息的按钮
     def custom_button(self, request):
         url = reverse('upload_csv')
