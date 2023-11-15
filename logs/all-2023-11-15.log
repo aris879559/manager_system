@@ -29,3 +29,24 @@
 [2023-11-15 14:57:56,668] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
 [2023-11-15 14:58:57,958] [admin.py:41] [admin:export_as_csv] [INFO]- admin exported 2 candidate records
 [2023-11-15 14:58:57,960] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/interview/candidate/ HTTP/1.1" 200 289
+[2023-11-15 16:24:13,645] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 16:24:20,030] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18951
+[2023-11-15 16:24:20,106] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-15 16:24:20,107] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 57933)
+[2023-11-15 16:24:55,766] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 16:32:01,119] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-15 16:32:02,515] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 16:32:12,360] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-15 16:32:13,668] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 16:32:23,385] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-15 16:32:24,719] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 16:34:18,214] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-15 16:34:19,494] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 16:34:56,650] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\local.py changed, reloading.
+[2023-11-15 16:34:58,076] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 16:35:09,972] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\local.py changed, reloading.
+[2023-11-15 16:35:11,315] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 16:54:37,822] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\local.py changed, reloading.
+[2023-11-15 16:54:39,851] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 16:54:58,950] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\local.py changed, reloading.
+[2023-11-15 16:55:00,880] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader

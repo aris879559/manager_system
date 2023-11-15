@@ -15,6 +15,15 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+# LDAP_AUTH_URL = 'ldap://localhost:389'
+# LDAP_AUTH_USE_TLS = False
+# LDAP_AUTH_SEARCH_BASE = "dc=ihopeit,dc=com"
+# LDAP_AUTH_OBJECT_CLASS = "inetOrgPerson"  ## 对应objectClass里面的值必须对应
+# LDAP_AUTH_USER_LOOKUP_FIELDS = ("username",)
+# LDAP_AUTH_CLEAN_USER_DATA = "django_python3_ldap.utils.clean_user_data"
+# LDAP_AUTH_CONNECTION_USERNAME = None
+# LDAP_AUTH_CONNECTION_PASSWORD = None
+
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
