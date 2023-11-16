@@ -50,3 +50,19 @@
 [2023-11-15 16:54:39,851] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
 [2023-11-15 16:54:58,950] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\local.py changed, reloading.
 [2023-11-15 16:55:00,880] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-15 22:52:00,797] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18951
+[2023-11-15 22:52:00,871] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-15 22:52:00,987] [log.py:241] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2023-11-15 22:52:00,989] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 51874)
+[2023-11-15 22:52:04,248] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 41902
+[2023-11-15 22:52:04,375] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-15 22:52:04,390] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/forms.css HTTP/1.1" 200 8953
+[2023-11-15 22:52:04,403] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[2023-11-15 22:52:04,404] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[2023-11-15 22:52:04,417] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+[2023-11-15 22:52:12,935] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18951
+[2023-11-15 22:52:19,359] [log.py:241] [log:log_response] [WARNING]- Not Found: /
+[2023-11-15 22:52:19,361] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2462
+[2023-11-15 22:52:26,331] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 289
+[2023-11-15 22:52:28,364] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/3/ HTTP/1.1" 200 931
+[2023-11-15 22:52:33,436] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/4/ HTTP/1.1" 200 1171

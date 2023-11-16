@@ -1,0 +1,497 @@
+[2023-11-16 17:27:34,558] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 17:27:57,411] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 9439
+[2023-11-16 17:27:57,514] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-11-16 17:27:57,517] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-11-16 17:27:57,522] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[2023-11-16 17:27:57,569] [log.py:241] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2023-11-16 17:27:57,570] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 50561)
+[2023-11-16 17:28:11,893] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 9439
+[2023-11-16 17:28:15,060] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18974
+[2023-11-16 17:28:15,102] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-11-16 17:28:15,123] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 17:28:15,157] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2023-11-16 17:28:15,159] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[2023-11-16 18:01:14,431] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 289
+[2023-11-16 18:01:50,848] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\manager_system\urls.py changed, reloading.
+[2023-11-16 18:01:52,128] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 18:01:55,052] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18968
+[2023-11-16 18:01:55,091] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 18:02:10,935] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\manager_system\urls.py changed, reloading.
+[2023-11-16 18:02:12,451] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 20:31:48,316] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 20:31:50,452] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 20:32:29,317] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 20:32:31,718] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 20:32:37,289] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 20:32:39,981] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 20:32:40,994] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 42694
+[2023-11-16 20:32:41,132] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 49497)
+[2023-11-16 20:32:41,154] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 20:32:41,184] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 49498)
+[2023-11-16 20:34:09,548] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 20:34:12,382] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 20:34:13,217] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 42741
+[2023-11-16 20:34:13,302] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 20:36:38,622] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 20:36:41,395] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 20:36:42,132] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 42789
+[2023-11-16 20:36:42,203] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 20:37:40,149] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18968
+[2023-11-16 21:09:15,325] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 21:09:17,609] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:10:48,420] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 21:10:51,214] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:16:03,479] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 21:16:07,288] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:17:51,095] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 21:17:53,777] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:19:11,371] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 21:19:14,064] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:20:28,219] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 21:20:30,657] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:21:37,385] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 21:21:40,348] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:21:48,339] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 21:21:51,211] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:22:11,831] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\models.py changed, reloading.
+[2023-11-16 21:22:14,419] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:25:58,435] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:26:01,484] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:26:35,527] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:26:38,721] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:27:35,647] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:27:38,386] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:30:13,331] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:30:16,651] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 45929
+[2023-11-16 21:30:16,794] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:30:16,803] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+[2023-11-16 21:30:26,290] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 11545
+[2023-11-16 21:30:26,383] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:30:26,400] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2023-11-16 21:30:31,395] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/add/ HTTP/1.1" 200 11094
+[2023-11-16 21:30:31,478] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:31:38,088] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+[2023-11-16 21:31:38,189] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/2/change/ HTTP/1.1" 200 21522
+[2023-11-16 21:31:38,356] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:31:38,365] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+[2023-11-16 21:31:38,367] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+[2023-11-16 21:31:38,394] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[2023-11-16 21:31:38,409] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[2023-11-16 21:31:38,545] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+[2023-11-16 21:31:38,549] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+[2023-11-16 21:31:38,553] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+[2023-11-16 21:31:38,558] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[2023-11-16 21:31:38,561] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[2023-11-16 21:32:06,294] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[2023-11-16 21:32:06,335] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12116
+[2023-11-16 21:32:06,410] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:32:10,719] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/add/ HTTP/1.1" 200 11094
+[2023-11-16 21:32:10,792] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:32:29,081] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+[2023-11-16 21:32:29,166] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/3/change/ HTTP/1.1" 200 21517
+[2023-11-16 21:32:29,368] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:32:38,966] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+[2023-11-16 21:32:39,007] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12501
+[2023-11-16 21:32:39,069] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:32:44,608] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/add/ HTTP/1.1" 200 11094
+[2023-11-16 21:32:44,699] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:33:04,855] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+[2023-11-16 21:33:04,961] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/4/change/ HTTP/1.1" 200 21517
+[2023-11-16 21:33:05,222] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:33:12,696] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/4/change/ HTTP/1.1" 302 0
+[2023-11-16 21:33:12,738] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12887
+[2023-11-16 21:33:12,831] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:33:15,429] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 20061
+[2023-11-16 21:33:15,536] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:33:20,537] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 46247
+[2023-11-16 21:33:20,602] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:34:17,499] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/interview/candidate/6/change/ HTTP/1.1" 302 0
+[2023-11-16 21:34:17,569] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 20291
+[2023-11-16 21:34:17,644] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:34:19,798] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/5/change/ HTTP/1.1" 200 46238
+[2023-11-16 21:34:19,864] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:34:38,290] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 20085
+[2023-11-16 21:34:43,052] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 46271
+[2023-11-16 21:34:43,120] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:38:21,744] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:38:24,344] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:39:21,128] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:39:24,331] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:40:53,114] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:40:55,931] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:40:59,152] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 43814
+[2023-11-16 21:40:59,245] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:43:09,607] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:43:12,815] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:47:57,494] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:48:00,166] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:49:12,913] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:49:15,177] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:50:24,602] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:50:26,790] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:50:53,520] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:50:55,515] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:52:06,106] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-16 21:52:06,206] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4212
+[2023-11-16 21:52:06,247] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+[2023-11-16 21:52:06,248] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+[2023-11-16 21:52:06,261] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/login.css HTTP/1.1" 200 958
+[2023-11-16 21:52:06,262] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+[2023-11-16 21:52:06,269] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+[2023-11-16 21:52:06,270] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+[2023-11-16 21:52:06,275] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[2023-11-16 21:52:06,420] [log.py:241] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2023-11-16 21:52:06,421] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2513
+[2023-11-16 21:52:48,807] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 20085
+[2023-11-16 21:53:00,975] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 46271
+[2023-11-16 21:53:01,104] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:53:32,074] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/interview/candidate/6/change/ HTTP/1.1" 302 0
+[2023-11-16 21:53:32,158] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 20294
+[2023-11-16 21:53:32,273] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:53:40,205] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 46271
+[2023-11-16 21:53:40,311] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:53:50,853] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-16 21:53:50,893] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 4525
+[2023-11-16 21:53:50,917] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+[2023-11-16 21:54:01,201] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12705
+[2023-11-16 21:54:01,286] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:54:03,438] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/4/change/ HTTP/1.1" 200 21354
+[2023-11-16 21:54:03,518] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:54:41,369] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/4/change/ HTTP/1.1" 302 0
+[2023-11-16 21:54:41,422] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12887
+[2023-11-16 21:54:41,536] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:54:44,124] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 5810
+[2023-11-16 21:54:44,157] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-11-16 21:54:44,158] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-11-16 21:54:45,925] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 19278
+[2023-11-16 21:54:45,959] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/changelists.css HTTP/1.1" 200 6584
+[2023-11-16 21:54:45,972] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:54:45,985] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[2023-11-16 21:54:46,004] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+[2023-11-16 21:54:46,011] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+[2023-11-16 21:54:46,043] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+[2023-11-16 21:54:46,046] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[2023-11-16 21:54:46,072] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[2023-11-16 21:54:46,073] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[2023-11-16 21:54:46,094] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-11-16 21:54:46,113] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[2023-11-16 21:54:46,126] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+[2023-11-16 21:54:46,164] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2023-11-16 21:54:46,168] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[2023-11-16 21:54:47,933] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/5/change/ HTTP/1.1" 200 42779
+[2023-11-16 21:54:47,969] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/forms.css HTTP/1.1" 200 8953
+[2023-11-16 21:54:47,978] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[2023-11-16 21:54:47,979] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:54:47,991] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+[2023-11-16 21:54:47,994] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[2023-11-16 21:54:49,971] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 19278
+[2023-11-16 21:54:54,033] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 42812
+[2023-11-16 21:54:54,064] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:55:25,478] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 21:55:28,091] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 21:55:32,705] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 42812
+[2023-11-16 21:55:32,746] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:55:43,492] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 19278
+[2023-11-16 21:55:43,532] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:58:39,697] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/4/change/ HTTP/1.1" 200 21426
+[2023-11-16 21:58:39,768] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:58:53,092] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/4/change/ HTTP/1.1" 302 0
+[2023-11-16 21:58:53,159] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12887
+[2023-11-16 21:58:53,282] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:59:00,052] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18770
+[2023-11-16 21:59:00,091] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:59:03,620] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 42304
+[2023-11-16 21:59:03,660] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:59:13,826] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/4/change/ HTTP/1.1" 200 21390
+[2023-11-16 21:59:13,913] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:59:25,464] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/4/change/ HTTP/1.1" 302 0
+[2023-11-16 21:59:25,508] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12887
+[2023-11-16 21:59:25,615] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:59:34,381] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 34967
+[2023-11-16 21:59:34,416] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 21:59:36,412] [log.py:241] [log:log_response] [WARNING]- Forbidden (Permission denied): /admin/auth/user/3/change/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 1774, in _changeform_view
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+[2023-11-16 21:59:36,425] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /admin/auth/user/3/change/ HTTP/1.1" 403 135
+[2023-11-16 21:59:40,199] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 34967
+[2023-11-16 21:59:57,252] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/4/change/ HTTP/1.1" 200 21363
+[2023-11-16 21:59:57,321] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:00:17,430] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/4/change/ HTTP/1.1" 302 0
+[2023-11-16 22:00:17,480] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12887
+[2023-11-16 22:00:17,599] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:00:19,630] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 42076
+[2023-11-16 22:00:19,667] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:05:20,495] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:05:26,395] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:07:00,642] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:07:02,394] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:09:20,141] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18502
+[2023-11-16 22:09:21,954] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/logout/ HTTP/1.1" 200 3595
+[2023-11-16 22:09:23,488] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-16 22:09:23,507] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4212
+[2023-11-16 22:09:28,532] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-16 22:09:28,553] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 4526
+[2023-11-16 22:09:39,321] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/2/change/ HTTP/1.1" 200 21359
+[2023-11-16 22:09:39,380] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:09:54,465] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[2023-11-16 22:09:54,501] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12888
+[2023-11-16 22:09:54,551] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:09:56,677] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/2/change/ HTTP/1.1" 200 21359
+[2023-11-16 22:09:56,727] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:10:06,827] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[2023-11-16 22:10:06,852] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12888
+[2023-11-16 22:10:06,891] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:10:10,553] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 5110
+[2023-11-16 22:10:11,935] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18503
+[2023-11-16 22:10:11,957] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:10:16,087] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 42077
+[2023-11-16 22:10:16,106] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:10:28,697] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18503
+[2023-11-16 22:13:06,973] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:13:08,939] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:14:17,170] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:14:18,507] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:14:50,819] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:14:52,588] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:15:17,557] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:15:19,590] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:15:46,970] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:15:49,213] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:16:10,385] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:16:12,553] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:18:28,668] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:18:30,641] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:19:59,757] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:20:01,363] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:21:18,580] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:21:19,845] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:22:40,191] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:22:42,120] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:22:58,038] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12705
+[2023-11-16 22:22:58,134] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:22:59,654] [log.py:241] [log:log_response] [ERROR]- Internal Server Error: /admin/interview/candidate/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "D:\git\manager_system\interview\admin.py", line 85, in get_changelist_instance
+    self.list_editable = self.get_list_editable(request)
+  File "D:\git\manager_system\interview\admin.py", line 80, in get_list_editable
+    if request.user.issuperuser or 'hr' in group_names:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\functional.py", line 268, in inner
+    return func(_wrapped, *args)
+AttributeError: 'User' object has no attribute 'issuperuser'
+[2023-11-16 22:22:59,666] [basehttp.py:212] [basehttp:log_message] [ERROR]- "GET /admin/interview/candidate/ HTTP/1.1" 500 108160
+[2023-11-16 22:23:14,815] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:23:17,024] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:23:19,301] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 28718
+[2023-11-16 22:23:19,397] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:24:08,393] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 46271
+[2023-11-16 22:24:08,441] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:24:19,056] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 28718
+[2023-11-16 22:24:46,584] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=11.10.7.6 HTTP/1.1" 200 29917
+[2023-11-16 22:24:46,629] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:24:49,514] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=-6.11.10.7 HTTP/1.1" 200 29978
+[2023-11-16 22:24:49,561] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:24:52,199] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=6.11.10.7 HTTP/1.1" 200 29917
+[2023-11-16 22:24:52,241] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:25:13,447] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=-11.6.10.7 HTTP/1.1" 200 29978
+[2023-11-16 22:25:13,488] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:25:14,510] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=11.6.10.7 HTTP/1.1" 200 29917
+[2023-11-16 22:25:14,549] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:25:42,868] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:25:44,132] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:26:20,032] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:26:21,174] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:26:31,995] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=11.6.10.7 HTTP/1.1" 200 29188
+[2023-11-16 22:26:32,039] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:26:36,371] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=-11.6.10.7 HTTP/1.1" 200 29249
+[2023-11-16 22:26:36,417] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:27:50,439] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:27:52,299] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:28:08,403] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:28:09,828] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:28:12,522] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=-11.6.10.7 HTTP/1.1" 200 37900
+[2023-11-16 22:28:12,560] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:28:37,661] [log.py:241] [log:log_response] [WARNING]- Not Found: /
+[2023-11-16 22:28:37,662] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2462
+[2023-11-16 22:28:50,395] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /upload_csv/ HTTP/1.1" 200 428
+[2023-11-16 22:29:21,491] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-16 22:29:22,924] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-16 22:30:34,612] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18747
+[2023-11-16 22:30:34,633] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:30:41,033] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 42077
+[2023-11-16 22:30:41,054] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:31:43,526] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/interview/candidate/?o=-11.6.10.7 HTTP/1.1" 302 0
+[2023-11-16 22:31:43,626] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=-11.6.10.7 HTTP/1.1" 200 38050
+[2023-11-16 22:31:43,667] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:32:12,623] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6696
+[2023-11-16 22:32:12,671] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:32:22,075] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/2/change/?_to_field=id HTTP/1.1" 200 21426
+[2023-11-16 22:32:22,129] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:32:27,598] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/?o=-11.6.10.7 HTTP/1.1" 200 37900
+[2023-11-16 22:42:05,767] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12705
+[2023-11-16 22:42:05,811] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:42:08,175] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/4/change/ HTTP/1.1" 200 21372
+[2023-11-16 22:42:08,221] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:42:16,577] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/4/change/ HTTP/1.1" 302 0
+[2023-11-16 22:42:16,600] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12887
+[2023-11-16 22:42:16,638] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:42:18,735] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/3/change/ HTTP/1.1" 200 21321
+[2023-11-16 22:42:18,775] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:42:24,798] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12705
+[2023-11-16 22:42:24,851] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:42:26,447] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/2/change/ HTTP/1.1" 200 21377
+[2023-11-16 22:42:26,492] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:42:34,290] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[2023-11-16 22:42:34,314] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 12888
+[2023-11-16 22:42:34,355] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:42:49,820] [log.py:241] [log:log_response] [WARNING]- Forbidden (Permission denied): /admin/interview/candidate/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 1923, in changelist_view
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+[2023-11-16 22:42:49,826] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /admin/interview/candidate/ HTTP/1.1" 403 135
+[2023-11-16 22:42:51,551] [log.py:241] [log:log_response] [WARNING]- Forbidden (Permission denied): /admin/interview/candidate/6/change/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\options.py", line 1774, in _changeform_view
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+[2023-11-16 22:42:51,555] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 403 135
+[2023-11-16 22:43:17,315] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 8288
+[2023-11-16 22:43:17,354] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 22:45:52,743] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/add/ HTTP/1.1" 200 12084
+[2023-11-16 22:45:52,817] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:07:37,170] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+[2023-11-16 23:07:37,196] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 9623
+[2023-11-16 23:07:37,254] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:07:46,516] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/1/change/ HTTP/1.1" 200 12330
+[2023-11-16 23:07:46,581] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:07:49,322] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 9436
+[2023-11-16 23:07:51,385] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/add/ HTTP/1.1" 200 12084
+[2023-11-16 23:07:51,457] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:09:11,826] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+[2023-11-16 23:09:11,852] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 9813
+[2023-11-16 23:09:11,919] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:09:18,627] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 12348
+[2023-11-16 23:09:18,705] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:09:22,416] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 13058
+[2023-11-16 23:09:22,489] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:09:25,515] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/4/change/ HTTP/1.1" 200 21429
+[2023-11-16 23:09:25,608] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:09:49,516] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/4/change/ HTTP/1.1" 302 0
+[2023-11-16 23:09:49,545] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 13240
+[2023-11-16 23:09:49,585] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:09:52,325] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/2/change/ HTTP/1.1" 200 21434
+[2023-11-16 23:09:52,375] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:09:59,749] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[2023-11-16 23:09:59,784] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 13241
+[2023-11-16 23:09:59,827] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:10:01,143] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/3/change/ HTTP/1.1" 200 21396
+[2023-11-16 23:10:01,191] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:10:07,111] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+[2023-11-16 23:10:07,141] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/user/ HTTP/1.1" 200 13240
+[2023-11-16 23:10:07,187] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:10:53,931] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/logout/ HTTP/1.1" 200 3595
+[2023-11-16 23:10:55,913] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-16 23:10:55,934] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4212
+[2023-11-16 23:10:55,995] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[2023-11-16 23:11:09,839] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-16 23:11:09,860] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 5810
+[2023-11-16 23:11:14,112] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 24932
+[2023-11-16 23:11:14,164] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:11:18,370] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/job/ HTTP/1.1" 200 13586
+[2023-11-16 23:11:18,412] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:11:19,828] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/job/3/change/ HTTP/1.1" 200 11315
+[2023-11-16 23:11:19,877] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:11:22,636] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 24932
+[2023-11-16 23:11:22,682] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:11:29,225] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 5110
+[2023-11-16 23:11:31,312] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 5110
+[2023-11-16 23:11:32,487] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18782
+[2023-11-16 23:11:32,511] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:11:48,288] [admin.py:104] [admin:get_readonly_fields] [INFO]- interviewer is in user group for zhang
+[2023-11-16 23:11:48,301] [admin.py:104] [admin:get_readonly_fields] [INFO]- interviewer is in user group for zhang
+[2023-11-16 23:11:48,359] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/5/change/ HTTP/1.1" 200 41404
+[2023-11-16 23:11:48,379] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:30:22,294] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18782
+[2023-11-16 23:30:26,301] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 18782
+[2023-11-16 23:30:26,321] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:31:01,462] [admin.py:104] [admin:get_readonly_fields] [INFO]- interviewer is in user group for zhang
+[2023-11-16 23:31:01,473] [admin.py:104] [admin:get_readonly_fields] [INFO]- interviewer is in user group for zhang
+[2023-11-16 23:31:01,553] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/6/change/ HTTP/1.1" 200 41437
+[2023-11-16 23:31:01,585] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-16 23:31:47,375] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /upload_csv/ HTTP/1.1" 200 428

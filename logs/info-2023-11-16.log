@@ -1,0 +1,4 @@
+[2023-11-16 23:11:48,288] [admin.py:104] [admin:get_readonly_fields] [INFO]- interviewer is in user group for zhang
+[2023-11-16 23:11:48,301] [admin.py:104] [admin:get_readonly_fields] [INFO]- interviewer is in user group for zhang
+[2023-11-16 23:31:01,462] [admin.py:104] [admin:get_readonly_fields] [INFO]- interviewer is in user group for zhang
+[2023-11-16 23:31:01,473] [admin.py:104] [admin:get_readonly_fields] [INFO]- interviewer is in user group for zhang

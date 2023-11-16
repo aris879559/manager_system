@@ -18,7 +18,8 @@ from django.contrib import admin
 from django.urls import path
 from jobs.views import *
 from interview.views import *
-
+#定义多语言翻译，_表示多语言
+from django.utils.translation import gettext_lazy as _
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -26,3 +27,7 @@ urlpatterns = [
     path('job/<int:job_id>/', jobdetail,name="jobdetail"),
     path('upload_csv/', upload_csv,name="upload_csv")
 ]
+
+admin.site.site_header = _("鑫鑫科技招聘管理系统")
+
+
