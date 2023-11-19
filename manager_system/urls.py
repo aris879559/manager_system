@@ -26,7 +26,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('joblist/', joblist,name="joblist"),
     path('job/<int:job_id>/', jobdetail,name="jobdetail"),
-    path('upload_csv/', upload_csv,name="upload_csv")
+    path('upload_csv/', upload_csv,name="upload_csv"),
+    path('accounts/', include('registration.backends.simple.urls')),
 ]
 
 admin.site.site_header = _("鑫鑫科技招聘管理系统")

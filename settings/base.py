@@ -41,6 +41,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'grappelli',
+    'registration',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -50,6 +51,7 @@ INSTALLED_APPS = [
     # 'django_python3_ldap',
     'jobs',
     'interview',
+    'dingtalkchatbot',
 ]
 
 MIDDLEWARE = [
@@ -228,3 +230,8 @@ LOGGING = {
         },
     },
 }
+
+#登录成功之后访问的页面
+LOGIN_REDIRECT_URL = '/joblist'
+#访问登录的默认页面
+SIMPLE_BACKEND_LOGIN_URL = '/account/login/'

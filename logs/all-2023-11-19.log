@@ -183,3 +183,141 @@
 [2023-11-19 15:55:17,965] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/images/icons/selector-add-m2m-horizontal.png HTTP/1.1" 200 2991
 [2023-11-19 15:55:17,966] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/images/icons/selector-remove-m2m-horizontal.png HTTP/1.1" 200 2998
 [2023-11-19 15:58:08,443] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 15:58:14,843] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 12727
+[2023-11-19 15:58:14,940] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 15:58:17,570] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 17745
+[2023-11-19 15:58:17,642] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 15:58:27,892] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/images/icons/selector-remove-m2m-horizontal_hover.png HTTP/1.1" 200 3003
+[2023-11-19 15:58:28,740] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/images/icons/selector-add-m2m-horizontal_hover.png HTTP/1.1" 200 2995
+[2023-11-19 15:59:37,195] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 12727
+[2023-11-19 15:59:37,277] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 15:59:39,239] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 17745
+[2023-11-19 15:59:39,315] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 15:59:57,200] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/group/2/change/ HTTP/1.1" 302 0
+[2023-11-19 15:59:57,247] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 13113
+[2023-11-19 15:59:57,344] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 16:00:01,382] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 17763
+[2023-11-19 16:00:01,457] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 16:00:18,378] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/logout/ HTTP/1.1" 200 4888
+[2023-11-19 16:00:20,016] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-19 16:00:20,051] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-19 16:00:25,581] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-19 16:00:25,628] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 8659
+[2023-11-19 16:00:28,229] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 38256
+[2023-11-19 16:00:28,317] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 16:01:29,382] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 24102
+[2023-11-19 16:49:33,009] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 16:52:08,421] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:14:59,245] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-19 17:15:01,511] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:17:05,923] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:17:17,272] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-19 17:17:18,594] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:18:02,216] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 38337
+[2023-11-19 17:18:02,301] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 17:18:14,894] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 38337
+[2023-11-19 17:18:14,933] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 17:18:17,280] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 38337
+[2023-11-19 17:18:17,323] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-19 17:24:31,254] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-19 17:24:32,687] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:24:58,140] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-19 17:24:59,454] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:25:08,111] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\interview\admin.py changed, reloading.
+[2023-11-19 17:25:09,930] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:37:47,436] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:38:01,336] [log.py:241] [log:log_response] [WARNING]- Not Found: /account/
+[2023-11-19 17:38:01,336] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /account/ HTTP/1.1" 404 2723
+[2023-11-19 17:38:06,757] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:38:06,757] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 5037
+[2023-11-19 17:38:19,843] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:38:19,858] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/profile/
+[2023-11-19 17:38:19,858] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/profile/ HTTP/1.1" 404 5061
+[2023-11-19 17:38:35,124] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register HTTP/1.1" 301 0
+[2023-11-19 17:38:35,140] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:38:35,156] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/profile/
+[2023-11-19 17:38:35,156] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/profile/ HTTP/1.1" 404 5061
+[2023-11-19 17:39:25,318] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:39:25,327] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/profile/
+[2023-11-19 17:39:25,327] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/profile/ HTTP/1.1" 404 5061
+[2023-11-19 17:39:45,794] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:39:45,825] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/profile/
+[2023-11-19 17:39:45,825] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/profile/ HTTP/1.1" 404 5061
+[2023-11-19 17:40:10,249] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\local.py changed, reloading.
+[2023-11-19 17:40:11,563] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:40:18,040] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:40:18,056] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/profile/
+[2023-11-19 17:40:18,056] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/profile/ HTTP/1.1" 404 179
+[2023-11-19 17:40:24,411] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:40:24,411] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/profile/
+[2023-11-19 17:40:24,411] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/profile/ HTTP/1.1" 404 179
+[2023-11-19 17:41:57,169] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:42:07,896] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:42:07,906] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/profile/
+[2023-11-19 17:42:07,907] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/profile/ HTTP/1.1" 404 179
+[2023-11-19 17:42:24,937] [log.py:241] [log:log_response] [WARNING]- Not Found: /job_list
+[2023-11-19 17:42:24,938] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /job_list HTTP/1.1" 404 179
+[2023-11-19 17:44:02,461] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 200 1624
+[2023-11-19 17:44:04,948] [log.py:241] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2023-11-19 17:44:04,950] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 179
+[2023-11-19 17:46:58,949] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:46:58,949] [log.py:241] [log:log_response] [WARNING]- Not Found: /
+[2023-11-19 17:46:58,949] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 179
+[2023-11-19 17:49:04,950] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-19 17:49:07,156] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:50:04,504] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-19 17:50:06,086] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:51:03,371] [log.py:241] [log:log_response] [WARNING]- Not Found: /
+[2023-11-19 17:51:03,372] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 179
+[2023-11-19 17:51:12,831] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:51:12,835] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist HTTP/1.1" 301 0
+[2023-11-19 17:51:12,844] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 289
+[2023-11-19 17:51:18,356] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/3/ HTTP/1.1" 200 931
+[2023-11-19 17:51:32,024] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 302 0
+[2023-11-19 17:51:32,036] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 289
+[2023-11-19 17:52:29,696] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login HTTP/1.1" 301 0
+[2023-11-19 17:52:30,045] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login/ HTTP/1.1" 200 894
+[2023-11-19 17:53:32,041] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:53:32,045] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:53:42,564] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout HTTP/1.1" 301 0
+[2023-11-19 17:53:42,599] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout/ HTTP/1.1" 200 127
+[2023-11-19 17:53:47,971] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:53:47,974] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:53:54,324] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register HTTP/1.1" 301 0
+[2023-11-19 17:53:54,375] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 200 1624
+[2023-11-19 17:53:59,316] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:53:59,320] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:54:55,728] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-19 17:54:57,461] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-19 17:55:02,941] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:55:02,942] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:55:08,338] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts
+[2023-11-19 17:55:08,339] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts HTTP/1.1" 404 179
+[2023-11-19 17:55:40,409] [log.py:241] [log:log_response] [WARNING]- Not Found: /
+[2023-11-19 17:55:40,410] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 179
+[2023-11-19 17:55:48,082] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:55:48,083] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:55:50,625] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 289
+[2023-11-19 17:56:00,706] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:56:00,708] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:56:12,815] [log.py:241] [log:log_response] [WARNING]- Not Found: /account
+[2023-11-19 17:56:12,816] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /account HTTP/1.1" 404 179
+[2023-11-19 17:56:24,642] [log.py:241] [log:log_response] [WARNING]- Not Found: /account
+[2023-11-19 17:56:24,642] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /account HTTP/1.1" 404 179
+[2023-11-19 17:56:35,199] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:56:35,201] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:56:40,206] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout/ HTTP/1.1" 200 127
+[2023-11-19 17:56:47,131] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:56:47,132] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:56:56,257] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login/ HTTP/1.1" 200 894
+[2023-11-19 17:57:03,937] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /accounts/login/ HTTP/1.1" 302 0
+[2023-11-19 17:57:03,953] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/profile/
+[2023-11-19 17:57:03,955] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/profile/ HTTP/1.1" 404 179
+[2023-11-19 17:57:07,270] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:57:07,271] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:57:07,563] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-19 17:57:07,564] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-19 17:57:14,612] [log.py:241] [log:log_response] [WARNING]- Not Found: /
+[2023-11-19 17:57:14,613] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 179
+[2023-11-19 17:57:35,003] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\settings\base.py changed, reloading.
+[2023-11-19 17:57:36,440] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
