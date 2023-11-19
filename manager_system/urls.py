@@ -15,13 +15,14 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 from jobs.views import *
 from interview.views import *
 #定义多语言翻译，_表示多语言
 from django.utils.translation import gettext_lazy as _
 
 urlpatterns = [
+    path('grappelli/', include('grappelli.urls')),
     path('admin/', admin.site.urls),
     path('joblist/', joblist,name="joblist"),
     path('job/<int:job_id>/', jobdetail,name="jobdetail"),

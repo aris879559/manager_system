@@ -1,0 +1,55 @@
+[2023-11-17 15:48:41,067] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-17 15:48:54,368] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 8659
+[2023-11-17 15:48:54,457] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 200 29614
+[2023-11-17 15:48:54,475] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 200 11421
+[2023-11-17 15:48:54,476] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 200 36537
+[2023-11-17 15:48:54,483] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 200 89501
+[2023-11-17 15:48:54,487] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 200 127982
+[2023-11-17 15:48:54,488] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 200 27906
+[2023-11-17 15:48:54,493] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 200 255084
+[2023-11-17 15:48:54,562] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/images/spritesheet-1694777276.png HTTP/1.1" 200 25228
+[2023-11-17 15:48:58,290] [log.py:241] [log:log_response] [WARNING]- Not Found: /
+[2023-11-17 15:48:58,292] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2572
+[2023-11-17 15:49:15,415] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 8659
+[2023-11-17 15:49:20,225] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/logout/ HTTP/1.1" 200 4888
+[2023-11-17 15:49:32,420] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-17 15:49:32,449] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-17 15:49:36,944] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-17 15:49:36,974] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 14036
+[2023-11-17 15:49:59,568] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 49899
+[2023-11-17 15:49:59,666] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 58735)
+[2023-11-17 15:49:59,677] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-17 15:49:59,729] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/images/icons/form-select.png HTTP/1.1" 200 289
+[2023-11-17 15:49:59,729] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/grappelli/images/backgrounds/changelist-results.png HTTP/1.1" 200 244
+[2023-11-17 15:50:23,344] [log.py:241] [log:log_response] [WARNING]- Not Found: /
+[2023-11-17 15:50:23,347] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2572
+[2023-11-17 15:50:29,767] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 49899
+[2023-11-17 15:52:38,579] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/logout/ HTTP/1.1" 200 4888
+[2023-11-17 15:52:40,796] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-17 15:52:40,822] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-17 15:53:01,837] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-17 15:53:01,856] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 14036
+[2023-11-17 15:53:20,010] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/ HTTP/1.1" 200 7291
+[2023-11-17 15:53:21,630] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 49899
+[2023-11-17 15:53:21,682] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-17 15:54:08,786] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/ HTTP/1.1" 200 7291
+[2023-11-17 15:54:10,180] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 14036
+[2023-11-17 15:54:11,663] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/job/ HTTP/1.1" 200 19156
+[2023-11-17 15:54:11,712] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-17 15:54:14,723] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/job/4/change/ HTTP/1.1" 200 16772
+[2023-11-17 15:54:14,760] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-17 15:54:16,981] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/job/ HTTP/1.1" 200 19156
+[2023-11-17 15:54:17,027] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-17 15:54:18,891] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 14036
+[2023-11-17 15:54:20,462] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 49899
+[2023-11-17 15:54:20,509] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-17 15:54:22,297] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/5/change/ HTTP/1.1" 200 35037
+[2023-11-17 15:54:22,341] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-17 15:54:34,627] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/ HTTP/1.1" 200 7291
+[2023-11-17 16:40:50,160] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 49899
+[2023-11-17 16:40:50,224] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-17 16:40:50,309] [log.py:241] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2023-11-17 16:40:50,310] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 60203)
+[2023-11-17 16:41:36,246] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/interview/candidate/ HTTP/1.1" 302 0
+[2023-11-17 16:41:36,331] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 50257
+[2023-11-17 16:41:36,378] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560

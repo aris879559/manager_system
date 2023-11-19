@@ -96,6 +96,11 @@ class Candidate(models.Model):
         verbose_name = u'应聘者信息'
         verbose_name_plural = u'应聘者信息'
 
+        permissions = [
+            ("export","可以导出数据列表"),
+            ("notify","通知面试官对候选人进行评估"),
+        ]
+
     #Python2 优先使用这个方法，把对象转换成字符串： 如果没有__unicode__方法，就调用__str__方法
     def __unicode__(self):
         return self.name
