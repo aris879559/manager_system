@@ -1,0 +1,498 @@
+[2023-11-20 16:43:49,830] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 16:44:03,743] [log.py:241] [log:log_response] [WARNING]- Not Found: /
+[2023-11-20 16:44:03,745] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 179
+[2023-11-20 16:44:03,828] [log.py:241] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2023-11-20 16:44:03,831] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 62170)
+[2023-11-20 16:44:09,627] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 511
+[2023-11-20 16:44:13,269] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 511
+[2023-11-20 16:44:14,578] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/3/ HTTP/1.1" 200 1153
+[2023-11-20 16:44:19,960] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 511
+[2023-11-20 16:44:26,571] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout HTTP/1.1" 301 0
+[2023-11-20 16:44:26,600] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout/ HTTP/1.1" 200 360
+[2023-11-20 16:44:29,401] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 522
+[2023-11-20 16:44:30,514] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login HTTP/1.1" 301 0
+[2023-11-20 16:44:30,551] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login/ HTTP/1.1" 200 1127
+[2023-11-20 16:44:34,328] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 200 1857
+[2023-11-20 16:44:36,464] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 522
+[2023-11-20 16:44:40,262] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login/ HTTP/1.1" 200 1127
+[2023-11-20 16:44:43,694] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /accounts/login/ HTTP/1.1" 302 0
+[2023-11-20 16:44:43,702] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist HTTP/1.1" 301 0
+[2023-11-20 16:44:43,713] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 512
+[2023-11-20 16:54:39,994] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/3/ HTTP/1.1" 200 1154
+[2023-11-20 16:54:43,111] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout/ HTTP/1.1" 200 360
+[2023-11-20 16:54:45,427] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login/ HTTP/1.1" 200 1127
+[2023-11-20 16:54:48,517] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /accounts/login/ HTTP/1.1" 302 0
+[2023-11-20 16:54:48,524] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist HTTP/1.1" 301 0
+[2023-11-20 16:54:48,535] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 512
+[2023-11-20 16:54:49,935] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/3/ HTTP/1.1" 200 1154
+[2023-11-20 16:54:54,685] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 512
+[2023-11-20 16:55:09,641] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/3/ HTTP/1.1" 200 1154
+[2023-11-20 18:08:44,550] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout/ HTTP/1.1" 200 360
+[2023-11-20 18:08:45,998] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login/ HTTP/1.1" 200 1127
+[2023-11-20 18:08:48,483] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /accounts/login/ HTTP/1.1" 302 0
+[2023-11-20 18:08:48,490] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist HTTP/1.1" 301 0
+[2023-11-20 18:08:48,503] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 512
+[2023-11-20 18:08:50,056] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/3/ HTTP/1.1" 200 1154
+[2023-11-20 21:36:30,154] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 21:36:39,686] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 512
+[2023-11-20 21:36:50,772] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout/ HTTP/1.1" 200 360
+[2023-11-20 21:36:55,103] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login/ HTTP/1.1" 200 1127
+[2023-11-20 21:48:34,853] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /accounts/login/ HTTP/1.1" 302 0
+[2023-11-20 21:48:34,868] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist HTTP/1.1" 301 0
+[2023-11-20 21:48:34,895] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 512
+[2023-11-20 21:51:01,634] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout/ HTTP/1.1" 200 360
+[2023-11-20 21:51:04,266] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/logout/ HTTP/1.1" 200 360
+[2023-11-20 21:51:10,208] [log.py:241] [log:log_response] [WARNING]- Not Found: /accounts/
+[2023-11-20 21:51:10,210] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /accounts/ HTTP/1.1" 404 179
+[2023-11-20 21:51:17,364] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login/ HTTP/1.1" 200 1127
+[2023-11-20 21:51:40,519] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/register/ HTTP/1.1" 200 1857
+[2023-11-20 21:52:16,061] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /accounts/login/ HTTP/1.1" 200 1127
+[2023-11-20 21:52:24,850] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /accounts/login/ HTTP/1.1" 302 0
+[2023-11-20 21:52:24,879] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist HTTP/1.1" 301 0
+[2023-11-20 21:52:24,911] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 512
+[2023-11-20 21:52:56,908] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/3/ HTTP/1.1" 200 1154
+[2023-11-20 21:53:09,045] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /job/3/ HTTP/1.1" 200 1154
+[2023-11-20 22:10:24,076] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\jobs\models.py changed, reloading.
+[2023-11-20 22:10:25,940] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 22:13:04,213] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\jobs\models.py changed, reloading.
+[2023-11-20 22:13:06,260] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 22:14:10,678] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\jobs\models.py changed, reloading.
+[2023-11-20 22:14:12,755] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 22:14:30,009] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\jobs\models.py changed, reloading.
+[2023-11-20 22:14:32,357] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 22:41:23,213] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\jobs\admin.py changed, reloading.
+[2023-11-20 22:41:25,981] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 22:42:16,260] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\jobs\admin.py changed, reloading.
+[2023-11-20 22:42:18,588] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 22:42:38,624] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\manager_system\jobs\admin.py changed, reloading.
+[2023-11-20 22:42:40,365] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 22:45:39,021] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-11-20 22:46:16,538] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 512
+[2023-11-20 22:46:18,689] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /joblist/ HTTP/1.1" 200 512
+[2023-11-20 22:46:30,230] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 7701
+[2023-11-20 22:46:30,290] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:46:30,292] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 56805)
+[2023-11-20 22:46:50,111] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 7701
+[2023-11-20 22:46:52,496] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 26481
+[2023-11-20 22:46:52,533] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:46:52,535] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:46:52,538] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:46:52,546] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:46:52,559] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:46:52,579] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:46:52,580] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:46:52,585] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:46:52,586] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:46:52,596] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/spritesheet-1694777276.png
+[2023-11-20 22:46:52,597] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/spritesheet-1694777276.png HTTP/1.1" 404 179
+[2023-11-20 22:46:52,599] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/backgrounds/changelist-results.png
+[2023-11-20 22:46:52,601] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/icons/form-select.png
+[2023-11-20 22:46:52,602] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/backgrounds/changelist-results.png HTTP/1.1" 404 179
+[2023-11-20 22:46:52,603] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/icons/form-select.png HTTP/1.1" 404 179
+[2023-11-20 22:46:57,492] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/spritesheet-1694777276.png
+[2023-11-20 22:46:57,493] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/spritesheet-1694777276.png HTTP/1.1" 404 179
+[2023-11-20 22:46:57,944] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/ HTTP/1.1" 200 7230
+[2023-11-20 22:47:04,044] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/candidate/ HTTP/1.1" 200 26481
+[2023-11-20 22:47:04,079] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:47:04,081] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:04,085] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:47:04,092] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:04,099] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:47:04,119] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:47:04,120] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:04,126] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:47:04,127] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:09,186] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/interview/ HTTP/1.1" 200 7230
+[2023-11-20 22:47:12,154] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/logout/ HTTP/1.1" 200 4888
+[2023-11-20 22:47:13,567] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-20 22:47:13,583] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-20 22:47:21,210] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-20 22:47:21,228] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 8865
+[2023-11-20 22:47:21,335] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/spritesheet-1694777276.png
+[2023-11-20 22:47:21,336] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/spritesheet-1694777276.png HTTP/1.1" 404 179
+[2023-11-20 22:47:30,027] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/job/ HTTP/1.1" 200 19424
+[2023-11-20 22:47:30,067] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:47:30,068] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:30,071] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:47:30,076] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:30,086] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:47:30,105] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:47:30,106] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:30,112] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:47:30,113] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:30,125] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/spritesheet-1694777276.png
+[2023-11-20 22:47:30,127] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/spritesheet-1694777276.png HTTP/1.1" 404 179
+[2023-11-20 22:47:46,290] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin HTTP/1.1" 301 0
+[2023-11-20 22:47:46,323] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 15811
+[2023-11-20 22:47:46,373] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:47:46,375] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:47:46,386] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:47:46,390] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:47:46,393] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:47:46,394] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:47:46,398] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:47:46,399] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:46,402] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:47:46,403] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:46,407] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:47:46,408] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:46,411] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:47:46,412] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:48,464] [log.py:241] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2023-11-20 22:47:48,465] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 179
+[2023-11-20 22:47:54,343] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 15811
+[2023-11-20 22:47:54,361] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:47:54,363] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:47:54,366] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:47:54,369] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:47:54,372] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:47:54,374] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:47:54,375] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:47:54,376] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:47:54,377] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:54,377] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:54,378] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:54,380] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:47:54,382] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:47:54,384] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:59,314] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/logout/ HTTP/1.1" 200 4888
+[2023-11-20 22:47:59,330] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:47:59,331] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:47:59,332] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:47:59,334] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:47:59,335] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:47:59,338] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:47:59,338] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:47:59,340] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:47:59,340] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:47:59,341] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:59,342] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:59,342] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:47:59,345] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:47:59,347] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:02,905] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-20 22:48:02,914] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-20 22:48:02,929] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:48:02,933] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:48:02,935] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:48:02,936] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:48:02,937] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:48:02,939] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:48:02,939] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:48:02,940] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:48:02,940] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:48:02,941] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:02,943] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:02,945] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:48:02,946] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:02,950] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:06,484] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-20 22:48:06,501] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:48:06,504] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:48:06,505] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:48:06,506] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:48:06,509] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:48:06,511] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:48:06,512] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:48:06,513] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:48:06,514] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:48:06,515] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:06,516] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:06,517] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:06,522] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:48:06,526] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:11,501] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-20 22:48:11,508] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-20 22:48:11,527] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:48:11,529] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:48:11,531] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:48:11,533] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:48:11,535] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:48:11,537] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:48:11,538] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:48:11,539] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:48:11,539] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:11,540] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:11,540] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:11,543] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:48:11,544] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:48:11,547] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:25,595] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-20 22:48:25,602] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-20 22:48:25,632] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:48:25,633] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:48:25,647] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:48:25,648] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:48:25,650] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:48:25,651] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:48:25,653] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:48:25,654] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:25,657] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:48:25,658] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:25,660] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:48:25,661] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:25,663] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:48:25,664] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:32,736] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-20 22:48:32,757] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 15811
+[2023-11-20 22:48:32,772] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:48:32,773] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:48:32,776] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:48:32,778] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:48:32,779] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:48:32,781] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:48:32,782] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:48:32,783] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:48:32,785] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:48:32,786] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:32,787] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:32,789] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:48:32,790] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:32,791] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,134] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/job/ HTTP/1.1" 200 19425
+[2023-11-20 22:48:39,149] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:48:39,151] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:48:39,154] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:48:39,155] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:48:39,157] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:48:39,158] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:48:39,159] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:48:39,160] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:48:39,161] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:48:39,162] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,162] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,166] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/jquery.init.js
+[2023-11-20 22:48:39,166] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,167] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/core.js
+[2023-11-20 22:48:39,169] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:48:39,171] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+[2023-11-20 22:48:39,173] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:48:39,174] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,175] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/actions.js
+[2023-11-20 22:48:39,176] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/core.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,176] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,176] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,177] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,181] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/urlify.js
+[2023-11-20 22:48:39,182] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,184] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/prepopulate.js
+[2023-11-20 22:48:39,187] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:48:39,191] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,192] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,192] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+[2023-11-20 22:48:39,198] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:48:50,917] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 15811
+[2023-11-20 22:48:53,843] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/resume/ HTTP/1.1" 200 13498
+[2023-11-20 22:48:53,858] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.css
+[2023-11-20 22:48:53,860] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/screen.css
+[2023-11-20 22:48:53,861] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery.min.js
+[2023-11-20 22:48:53,862] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/stylesheets/mueller/grid/output.css
+[2023-11-20 22:48:53,863] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/jquery-migrate-3.0.1.min.js
+[2023-11-20 22:48:53,865] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/jquery/ui/jquery-ui.min.js
+[2023-11-20 22:48:53,866] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.css HTTP/1.1" 404 179
+[2023-11-20 22:48:53,867] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 404 179
+[2023-11-20 22:48:53,868] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,869] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 404 179
+[2023-11-20 22:48:53,872] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/jquery-migrate-3.0.1.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,874] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/js/grappelli.min.js
+[2023-11-20 22:48:53,874] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/jquery/ui/jquery-ui.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,877] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:48:53,878] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/jquery.init.js
+[2023-11-20 22:48:53,879] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/core.js
+[2023-11-20 22:48:53,881] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+[2023-11-20 22:48:53,884] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/actions.js
+[2023-11-20 22:48:53,884] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,885] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,886] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,886] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/core.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,887] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,889] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/urlify.js
+[2023-11-20 22:48:53,889] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,890] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/prepopulate.js
+[2023-11-20 22:48:53,892] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:48:53,896] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,898] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,900] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:48:53,904] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:48:58,418] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 15811
+[2023-11-20 22:49:05,963] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/logout/ HTTP/1.1" 200 4888
+[2023-11-20 22:49:07,317] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-20 22:49:07,324] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-20 22:49:14,177] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-20 22:49:14,198] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 15811
+[2023-11-20 22:49:14,307] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/spritesheet-1694777276.png
+[2023-11-20 22:49:14,308] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/spritesheet-1694777276.png HTTP/1.1" 404 179
+[2023-11-20 22:49:14,894] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/spritesheet-1694777276.png
+[2023-11-20 22:49:14,895] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/spritesheet-1694777276.png HTTP/1.1" 404 179
+[2023-11-20 22:49:15,998] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/spritesheet-1694777276.png
+[2023-11-20 22:49:15,999] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/spritesheet-1694777276.png HTTP/1.1" 404 179
+[2023-11-20 22:49:20,451] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/resume/ HTTP/1.1" 200 13498
+[2023-11-20 22:49:20,483] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:49:20,484] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:20,487] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:49:20,493] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:20,500] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:49:20,522] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:49:20,524] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:20,532] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:49:20,533] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:21,972] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/ HTTP/1.1" 200 7925
+[2023-11-20 22:49:22,644] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 15811
+[2023-11-20 22:49:27,702] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 12941
+[2023-11-20 22:49:27,742] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:49:27,743] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:27,746] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:49:27,753] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:27,762] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:49:27,784] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:49:27,786] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:27,795] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:49:27,795] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:29,003] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 19070
+[2023-11-20 22:49:29,048] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:49:29,050] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:29,055] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:49:29,060] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:49:29,060] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:29,092] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:49:29,093] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:29,100] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:49:29,102] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:49:29,116] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/spritesheet-1694777276.png
+[2023-11-20 22:49:29,117] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/spritesheet-1694777276.png HTTP/1.1" 404 179
+[2023-11-20 22:49:29,154] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/icons/searchbox.png
+[2023-11-20 22:49:29,155] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/icons/searchbox.png HTTP/1.1" 404 179
+[2023-11-20 22:49:29,158] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/icons/selector-add-m2m-horizontal.png
+[2023-11-20 22:49:29,161] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/icons/selector-remove-m2m-horizontal.png
+[2023-11-20 22:49:29,162] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/icons/selector-add-m2m-horizontal.png HTTP/1.1" 404 179
+[2023-11-20 22:49:29,163] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/icons/selector-remove-m2m-horizontal.png HTTP/1.1" 404 179
+[2023-11-20 22:50:31,880] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 12941
+[2023-11-20 22:50:31,938] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:50:31,939] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:50:31,942] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:50:31,944] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:50:31,986] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:50:31,987] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:50:31,994] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:50:31,996] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:50:33,211] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 15811
+[2023-11-20 22:51:37,105] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 12941
+[2023-11-20 22:51:37,147] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:51:37,150] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:51:37,155] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:51:37,158] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:51:37,167] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:51:37,196] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:51:37,198] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:51:37,203] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:51:37,204] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:51:38,425] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 19070
+[2023-11-20 22:51:38,463] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:51:38,466] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:51:38,469] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:51:38,471] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:51:38,474] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:51:38,500] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:51:38,501] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:51:38,509] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:51:38,510] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:51:57,553] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/icons/selector-add-m2m-horizontal_hover.png
+[2023-11-20 22:51:57,554] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/icons/selector-add-m2m-horizontal_hover.png HTTP/1.1" 404 179
+[2023-11-20 22:52:08,902] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/grappelli/images/icons/selector-remove-m2m-horizontal_hover.png
+[2023-11-20 22:52:08,904] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/grappelli/images/icons/selector-remove-m2m-horizontal_hover.png HTTP/1.1" 404 179
+[2023-11-20 22:52:18,686] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/group/2/change/ HTTP/1.1" 302 0
+[2023-11-20 22:52:18,716] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 13327
+[2023-11-20 22:52:18,759] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:18,763] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:18,769] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:18,774] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:18,784] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:52:18,804] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:18,804] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:18,812] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:18,813] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:20,663] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 19070
+[2023-11-20 22:52:20,705] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:20,706] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:20,711] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:20,714] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:20,718] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:52:20,749] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:20,750] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:20,755] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:20,756] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:49,436] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 19070
+[2023-11-20 22:52:49,478] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:49,480] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:49,486] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:49,489] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:49,494] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:52:49,529] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:49,530] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:49,537] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:49,538] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:50,536] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 19070
+[2023-11-20 22:52:50,587] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:50,589] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:50,594] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:50,599] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:50,605] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:52:50,659] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:50,661] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:50,674] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:50,675] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:57,738] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 12941
+[2023-11-20 22:52:57,798] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:57,800] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:57,810] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:57,823] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:57,834] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:52:57,864] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:57,865] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:57,873] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:57,874] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:59,603] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 12941
+[2023-11-20 22:52:59,658] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:59,659] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:59,665] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:59,676] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:59,685] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:52:59,715] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:52:59,716] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:52:59,723] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:52:59,725] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:53:01,304] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/2/change/ HTTP/1.1" 200 19070
+[2023-11-20 22:53:01,385] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:53:01,388] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:53:01,396] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:53:01,399] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:53:01,403] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:53:01,454] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:53:01,455] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:53:01,465] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:53:01,467] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:54:14,671] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/auth/group/2/change/ HTTP/1.1" 302 0
+[2023-11-20 22:54:14,693] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/auth/group/ HTTP/1.1" 200 13327
+[2023-11-20 22:54:14,731] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:54:14,733] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:54:14,740] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:54:14,745] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:54:14,752] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-11-20 22:54:14,773] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:54:14,774] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:54:14,781] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:54:14,782] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:54:21,258] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/logout/ HTTP/1.1" 200 4888
+[2023-11-20 22:54:22,572] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2023-11-20 22:54:22,578] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 6093
+[2023-11-20 22:54:28,144] [basehttp.py:212] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-11-20 22:54:28,160] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 9164
+[2023-11-20 22:54:56,126] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /admin/jobs/resume/ HTTP/1.1" 200 12225
+[2023-11-20 22:54:56,161] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:54:56,162] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:54:56,166] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:54:56,168] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[2023-11-20 22:54:56,193] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+[2023-11-20 22:54:56,194] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[2023-11-20 22:54:56,199] [log.py:241] [log:log_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+[2023-11-20 22:54:56,200] [basehttp.py:212] [basehttp:log_message] [WARNING]- "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
